@@ -6,8 +6,8 @@ Every page has a description, an image of the dish, ingredients and steps neatly
 
 This project showcase:
 
-+Headings
-+Images
-+Lists
-+Links
-+My basic git skills
+- Headings
+- Images
+- Lists
+- Links
+- My basic git skills
