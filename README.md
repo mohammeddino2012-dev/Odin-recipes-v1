@@ -2,7 +2,7 @@
 
 This is a recipes website that have my Top 3 recipes so you could cook from it.
 
-Every page has a description, an image of the dish, ingredients and steps neatly with supplementry images and neat code if you want to see.
+Every page has a description, an image of the dish, ingredients and steps neatly with supplementary images and neat code if you want to see.
 
 This project showcase:
 
